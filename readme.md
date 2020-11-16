@@ -77,8 +77,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot_website_1" width="375px" alt="De homepage voor het zoeken van een stage">
+<img src="images/screenshot_1.png" width="375px" alt="De homepage voor het zoeken van een stage">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="screenshot_1" width="375px" alt="meer informatie over het vinden van een stage">
+<img src="images/screenshot_2.png" width="375px" alt="meer informatie over het vinden van een stage">
